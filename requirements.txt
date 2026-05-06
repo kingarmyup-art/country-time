@@ -1,3 +1,4 @@
-Flask==2.3.2
+Flask==3.0.3
 pytz==2024.1
 pycountry==22.3.5
+python-3.11.9
